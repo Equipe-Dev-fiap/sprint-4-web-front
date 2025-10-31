@@ -1,0 +1,107 @@
+[
+  {
+    "id": "mh9evcx7j5emfu",
+    "nome": "copa feminina",
+    "idadeMin": 13,
+    "idadeMax": 18,
+    "times": [
+      {
+        "id": "mh9f0ljzvrtj6c",
+        "nome": "Time 1",
+        "dono": null,
+        "jogadoras": [
+          {
+            "id": "mh9nurzknwt1ea",
+            "nome": "rafael augusto carmona",
+            "posicao": "Goleira",
+            "numero": 23,
+            "idade": 14
+          },
+          {
+            "id": "mh9p07fuaxqdsp",
+            "nome": "rafa",
+            "posicao": "Goleira",
+            "numero": 12,
+            "idade": 13
+          }
+        ]
+      },
+      {
+        "id": "mh9p1zc7tl7ges",
+        "nome": "Time 2",
+        "dono": null,
+        "jogadoras": [
+          {
+            "id": "mh9pmfoxv4iuls",
+            "nome": "lu",
+            "posicao": "Goleira",
+            "numero": 14,
+            "idade": 13
+          },
+          {
+            "id": "mhf2167rtxoaow",
+            "nome": "TY",
+            "posicao": "Meio-campo",
+            "numero": 12,
+            "idade": 18
+          }
+        ]
+      },
+      {
+        "id": "mh9p20clkrqhqy",
+        "nome": "Time 3",
+        "dono": null,
+        "jogadoras": []
+      },
+      {
+        "id": "mh9p20gmr3ds0t",
+        "nome": "Time 4",
+        "dono": null,
+        "jogadoras": [
+          {
+            "id": "mh9ps4ftp6ki1g",
+            "nome": "lu",
+            "posicao": "Goleira",
+            "numero": 12,
+            "idade": 15
+          }
+        ]
+      },
+      {
+        "id": "mh9p20tfsl3ryr",
+        "nome": "Time 5",
+        "dono": null,
+        "jogadoras": [
+          {
+            "id": "mh9pdreqsve9jf",
+            "nome": "rafa",
+            "posicao": "Goleira",
+            "numero": 14,
+            "idade": 13
+          },
+          {
+            "id": "mh9pse0n3goq92",
+            "nome": "ty",
+            "posicao": "Goleira",
+            "numero": 12,
+            "idade": 13
+          },
+          {
+            "id": "mhcp0mq8nbfori",
+            "nome": "rs",
+            "posicao": "Goleira",
+            "numero": 16,
+            "idade": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mhf3qe8bi8wdff",
+    "nome": "copa",
+    "idadeMin": 17,
+    "idadeMax": 20,
+    "times": []
+  }
+]
