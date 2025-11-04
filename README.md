@@ -6,4 +6,3 @@ ENZO HORT RAMOS RM: 561872
 
 EDUARDO TOLENTINO RM:562169
 
-LINK DO GIT HUB: https://github.com/Equipe-Dev-fiap/cp05-web-front.git
