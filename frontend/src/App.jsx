@@ -4,7 +4,7 @@ import Register from "./routes/Register";
 import Home from "./routes/Home";
 import Error from "./routes/Error";
 import Campeonatos from "./routes/Campeonatos";
-import Treinos from "./routes/Treinos";
+
 import Sobre from "./routes/Sobre";
 import Contato from "./routes/Contato";
  
@@ -27,7 +27,7 @@ function App() {
 <Route path="/register" element={<Register />} />
 <Route path="/home" element={<Home />} />
 <Route path="/campeonatos" element={<Campeonatos />} />
-<Route path="/treinos" element={<Treinos />} />
+
 <Route path="/sobre" element={<Sobre />} />
 <Route path="/contato" element={<Contato />} />
 <Route path="*" element={<Error />} />

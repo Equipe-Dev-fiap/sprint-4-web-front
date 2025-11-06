@@ -25,14 +25,12 @@ const ADMIN_EMAIL = "passabola@fiap"; // único admin
 const dataDir = path.join(__dirname, "data");
 const usuariosPath = path.join(dataDir, "usuarios.json");
 const campeonatosPath = path.join(dataDir, "campeonatos.json");
-const treinosPath = path.join(dataDir, "treinos.json");
 
 // Garante pasta/arquivos básicos
 function ensureData() {
   if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
   if (!fs.existsSync(usuariosPath)) fs.writeFileSync(usuariosPath, "[]");
   if (!fs.existsSync(campeonatosPath)) fs.writeFileSync(campeonatosPath, "[]");
-  if (!fs.existsSync(treinosPath)) fs.writeFileSync(treinosPath, "[]");
 }
 ensureData();
 
